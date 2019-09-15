@@ -1,0 +1,70 @@
+body{
+    background-color:burlywood;
+}
+#form-body{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 700px;
+    border: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#social-links{
+
+    background-color:#e6fffa; 
+}
+.logo
+{
+    width:50px;
+    height: 50px;
+    padding-top:16px;
+    padding-bottom: 16px;
+    padding-left: 43px;
+    padding-right: 22px;
+}
+#form-inputs
+{
+    padding-top: 80px;
+    padding-bottom: 40px;            
+    padding-left: 45px;
+    padding-right: 50px;          
+}
+.text-box
+{
+    width: 100%;
+    border-radius:5px;
+    border:none;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 36px;
+    padding-bottom: 12px;
+    font-size: 18px;
+    font-family:sans-serif;
+    padding-inline-start: 15px;
+    font-weight:300;
+    border: 0px;
+    outline: 0px;
+    border-bottom: 1px solid #ccc;
+}
+.submit-btn
+        {
+            background-color:#838f8c;
+            font-family:sans-serif;
+            color: black;          
+            border: none;
+            padding-top: 10px;
+            padding-bottom: 12px;
+            padding-left: 24px;
+            padding-right: 24px;
+            font-size: 18px;
+            margin-bottom: 20px;
+            border-radius:5px;
+
+        }
+        .btn-align{
+            text-align: center;
+        }
+        .caption{
+            text-align: center;
+            padding-top: 25px;
+        }
